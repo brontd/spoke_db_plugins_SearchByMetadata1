@@ -10,9 +10,9 @@
 
 ### UK Library Customization
 
-  [config_form.php](/SearchByMetadata/config_form.php)
+  [config_form.php](/config_form.php)
   
-  [plugin.ini](/SearchByMetadata/config.ini)
+  [plugin.ini](/config.ini)
   
   [SearchByMetadataPlugin.php](/SearchByMetadataPlugin.php)
 
