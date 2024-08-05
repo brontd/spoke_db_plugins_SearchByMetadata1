@@ -8,6 +8,8 @@
 
   [https://omeka.org/classic/plugins/SearchByMetadata/ ](https://omeka.org/classic/plugins/SearchByMetadata/)
 
+  [SearchByMetadata Documentation](https://omeka.org/classic/docs/Plugins/SearchByMetadata/)
+
 ### UK Library Customization
 
   [config_form.php](/config_form.php)
