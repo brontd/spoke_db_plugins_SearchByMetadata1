@@ -12,7 +12,7 @@
 
   [config_form.php](/config_form.php)
   
-  [plugin.ini](/config.ini)
+  [plugin.ini](/plugin.ini)
   
   [SearchByMetadataPlugin.php](/SearchByMetadataPlugin.php)
 
