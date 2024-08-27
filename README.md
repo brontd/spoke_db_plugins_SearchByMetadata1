@@ -6,7 +6,7 @@
 
 ## Source
 
-  [https://omeka.org/classic/plugins/SearchByMetadata/ ](https://omeka.org/classic/plugins/SearchByMetadata/)
+  [https://omeka.org/classic/plugins/SearchByMetadata/ ](https://github.com/omeka/plugin-SearchByMetadata)
 
   [SearchByMetadata Documentation](https://omeka.org/classic/docs/Plugins/SearchByMetadata/)
 
