@@ -1,16 +1,16 @@
-# spoke_db_plugins_SearchByMetadata
+# SearchByMetadata
 
-### Info
+## Info
 
   Allows administrators to configure metadata fields to link to items with same field value
 
-### Source
+## Source
 
   [https://omeka.org/classic/plugins/SearchByMetadata/ ](https://omeka.org/classic/plugins/SearchByMetadata/)
 
   [SearchByMetadata Documentation](https://omeka.org/classic/docs/Plugins/SearchByMetadata/)
 
-### UK Library Customization
+## UK Library Customization
 
   [config_form.php](/config_form.php)
   
